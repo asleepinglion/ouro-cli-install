@@ -1,0 +1,26 @@
+{
+  "name": "superjs-cli-install",
+  "version": "0.8.0",
+  "description": "CLI tool to install SuperJS modules into a project.",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asleepinglion/superjs-cli-install"
+  },
+  "keywords": [
+    "SuperJS",
+    "CLI",
+    "Command",
+    "Line",
+    "Tool"
+  ],
+  "author": "Aaron Storck",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/asleepinglion/superjs-cli-install/issues"
+  },
+  "homepage": "https://github.com/asleepinglion/superjs-cli-install",
+  "dependencies": {
+
+  }
+}
