@@ -1,3 +1,3 @@
-#SuperJS CLI Install Tool
+#Ouro CLI Install Tool
 
-> **Note:** SuperJS CLI is under active development and is NOT production-ready.
+> **Note:** Ouro CLI is under active development and is NOT production-ready.
